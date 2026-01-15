@@ -2,15 +2,15 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Acccueil",
+    "title": "Projets",
     "section": "",
-    "text": "À propos de moi Data Scientist (@DARES – Ministère du Travail) | Ex Data Scientist (Innovation e-Santé Sud, ARS PACA, APHM)\nFort de 5+ ans d’expérience et 20+ projets ML & GenAI / LLM réalisés avec succès, j’accompagne les entreprises dans la conception, l’industrialisation et le déploiement de modèles prédictifs pour des solutions fiables, performantes et scalables.\nJ’ai également développé 30+ applications web interactives avec R Shiny, dont l’outil TRU (Taux de Recours aux Urgences) déployé auprès de toutes les agences régionales de santé (ARS) de France.\n\nData Science & ML : Python, R, SQL, scikit-learn, XGBoost, TensorFlow, PyTorch\nNLP & LLM : Hugging Face, LangChain, embeddings, RAG\nMLOps & déploiement: MLflow, Docker, GitHub Actions, GitLab CI/CD, APIs REST (FastAPI), Cloud (GCP/Azure)\nData Visualization : Shiny, dashboards analytiques\nLangues : Français, Anglais (courant)\nLocalisation : Paris (Île-de-France) + Full Remote\nDisponibilité : 7j/7 via messagerie le formulaire contact – réponse sous 1 heure"
+    "text": "Projet : Tech RAG Assistant GenAI local\nAssistant RAG (Retrieval-Augmented Generation) 100 % local, développé en Python, permettant d’interroger une base de documents techniques via un LLM local (Ollama + Mistral).\nLe projet démontre la maîtrise complète d’une architecture GenAI industrielle : ingestion de documents, chunking sémantique, embeddings locaux, recherche vectorielle (FAISS), génération contrôlée et anti-hallucination (réponse “Je ne sais pas” hors contexte).\nPensé pour les environnements entreprise contraints (offline, sécurité, données sensibles), avec une architecture modulaire et facilement extensible (API, évaluation RAG, interface web)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Portfolio Data Scientist",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nTest"
+    "text": "À propos de moi Data Scientist (@DARES – Ministère du Travail) | Ex Data Scientist (Innovation e-Santé Sud, ARS PACA, APHM)\nFort de 5+ ans d’expérience et 20+ projets ML & GenAI / LLM réalisés avec succès, j’accompagne les entreprises dans la conception, l’industrialisation et le déploiement de modèles prédictifs pour des solutions fiables, performantes et scalables.\nJ’ai également développé 30+ applications web interactives avec R Shiny, dont l’outil TRU (Taux de Recours aux Urgences) déployé auprès de toutes les agences régionales de santé (ARS) de France.\n\nData Science & ML : Python, R, SQL, scikit-learn, XGBoost, TensorFlow, PyTorch\nNLP & LLM : Hugging Face, LangChain, embeddings, RAG\nMLOps & déploiement: MLflow, Docker, GitHub Actions, GitLab CI/CD, APIs REST (FastAPI), Cloud (GCP/Azure)\nData Visualization : Shiny, dashboards analytiques\nLangues : Français, Anglais (courant)\nLocalisation : Paris (Île-de-France) + Full Remote\nDisponibilité : 7j/7 via messagerie le formulaire contact – réponse sous 1 heure"
   }
 ]

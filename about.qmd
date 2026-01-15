@@ -1,20 +1,11 @@
 ---
-title: "Acccueil"
+title: "Projets"
 ---
 
+#### **Projet  : Tech RAG Assistant GenAI local**
 
-À propos de moi
-Data Scientist (@DARES – Ministère du Travail) | Ex Data Scientist (Innovation e-Santé Sud, ARS PACA, APHM)
+Assistant RAG (Retrieval-Augmented Generation) 100 % local, développé en Python, permettant d’interroger une base de documents techniques via un LLM local (Ollama + Mistral).
 
-Fort de 5+ ans d’expérience et 20+ projets ML & GenAI / LLM réalisés avec succès, j’accompagne les entreprises dans la conception, l’industrialisation et le déploiement de modèles prédictifs pour des solutions fiables, performantes et scalables.
+Le projet démontre la maîtrise complète d’une architecture GenAI industrielle : ingestion de documents, chunking sémantique, embeddings locaux, recherche vectorielle (FAISS), génération contrôlée et anti-hallucination (réponse “Je ne sais pas” hors contexte).
 
-J’ai également développé 30+ applications web interactives avec R Shiny, dont l’outil TRU (Taux de Recours aux Urgences) déployé auprès de toutes les agences régionales de santé (ARS) de France.
-
-- Data Science & ML : Python, R, SQL, scikit-learn, XGBoost, TensorFlow, PyTorch
-- NLP & LLM : Hugging Face, LangChain, embeddings, RAG
-- MLOps & déploiement: MLflow, Docker, GitHub Actions, GitLab CI/CD, APIs REST (FastAPI), Cloud (GCP/Azure)
-- Data Visualization : Shiny, dashboards analytiques
-- Langues : Français, Anglais (courant)
-- Localisation : Paris (Île-de-France) + Full Remote
-- Disponibilité : 7j/7 via messagerie le formulaire contact – réponse sous 1 heure
----
+Pensé pour les environnements entreprise contraints (offline, sécurité, données sensibles), avec une architecture modulaire et facilement extensible (API, évaluation RAG, interface web).

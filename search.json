@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "mon-portfolio-qmd",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nTest"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Acccueil",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "À propos de moi Data Scientist (@DARES – Ministère du Travail) | Ex Data Scientist (Innovation e-Santé Sud, ARS PACA, APHM)\nFort de 5+ ans d’expérience et 20+ projets ML & GenAI / LLM réalisés avec succès, j’accompagne les entreprises dans la conception, l’industrialisation et le déploiement de modèles prédictifs pour des solutions fiables, performantes et scalables.\nJ’ai également développé 30+ applications web interactives avec R Shiny, dont l’outil TRU (Taux de Recours aux Urgences) déployé auprès de toutes les agences régionales de santé (ARS) de France.\n\nData Science & ML : Python, R, SQL, scikit-learn, XGBoost, TensorFlow, PyTorch\nNLP & LLM : Hugging Face, LangChain, embeddings, RAG\nMLOps & déploiement: MLflow, Docker, GitHub Actions, GitLab CI/CD, APIs REST (FastAPI), Cloud (GCP/Azure)\nData Visualization : Shiny, dashboards analytiques\nLangues : Français, Anglais (courant)\nLocalisation : Paris (Île-de-France) + Full Remote\nDisponibilité : 7j/7 via messagerie le formulaire contact – réponse sous 1 heure"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio Data Scientist",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nTest"
   }
 ]
